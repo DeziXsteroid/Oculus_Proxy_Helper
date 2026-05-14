@@ -680,9 +680,6 @@ void MainWindow::applyTheme()
             background: transparent;
             border: none;
         }
-        #scrollArea QWidget {
-            background: transparent;
-        }
         QScrollBar:vertical {
             background: transparent;
             width: 8px;
