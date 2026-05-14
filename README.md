@@ -51,26 +51,6 @@ Allowed TCP ports:
 8080, 8888, 3128, 8000, 8118
 ```
 
-## Build From Source
-
-Requirements:
-
-- Qt 6.8.2 MinGW
-- CMake
-- MinGW Makefiles
-
-```powershell
-$env:PATH = "C:\Qt\Tools\mingw1310_64\bin;C:\Qt\6.8.2\mingw_64\bin;$env:PATH"
-$src = "C:\Users\Ivann\OneDrive\Desktop\50F3~1\vrpProxy"
-cmake -S $src -B "$src\build" -G "MinGW Makefiles" -DCMAKE_PREFIX_PATH=C:\Qt\6.8.2\mingw_64
-cmake --build "$src\build" -j 4
-```
-
-Deploy Qt runtime:
-
-```powershell
-C:\Qt\6.8.2\mingw_64\bin\windeployqt.exe --release --no-translations "$src\build\vrpProxy.exe"
-```
 
 ## Links Used In App
 
