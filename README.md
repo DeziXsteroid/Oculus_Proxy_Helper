@@ -1,7 +1,5 @@
 # Oculus SetUP
 
-![Oculus SetUP](icon.png)
-
 <p align="center">
   <a href="https://github.com/DeziXsteroid/Oculus_Proxy_Helper/releases/latest/download/OculusSetUP-1.1.exe">
     <img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows%20EXE-ffffff?style=for-the-badge&logo=windows&logoColor=111111&labelColor=111111">
