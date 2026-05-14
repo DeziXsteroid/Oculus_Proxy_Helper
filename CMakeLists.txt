@@ -18,6 +18,7 @@ qt_add_executable(vrpProxy
     src/ProxyConnection.h
     src/ProxyServer.cpp
     src/ProxyServer.h
+    app.rc
     resources.qrc
 )
 
