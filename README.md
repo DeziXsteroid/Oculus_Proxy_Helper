@@ -1,6 +1,5 @@
-<p align="center">
 # Oculus SetUP
-</p>
+
 
 <p align="center">
   <a href="https://github.com/DeziXsteroid/Oculus_Proxy_Helper/releases/latest/download/OculusSetUP-1.1.exe">
