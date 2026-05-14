@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>assets/icons/usb.svg</file>
+        <file>assets/icons/vpn.svg</file>
+        <file>assets/icons/loader.svg</file>
+        <file alias="app.png">icon.png</file>
+    </qresource>
+</RCC>
