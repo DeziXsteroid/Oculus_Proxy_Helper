@@ -1,0 +1,16 @@
+build/
+out/
+dist/
+packaging/Launcher/payload.zip
+.vs/
+.vscode/
+CMakeUserPresets.json
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.user
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
